@@ -1,0 +1,2 @@
+# myjava
+learning code snippets
